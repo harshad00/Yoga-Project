@@ -52,9 +52,9 @@ body{
     align-items:center ;
     justify-content: center;
 }
-.hero-img{
+/* .hero-img{
     width: 50%;
-}
+} */
 .hero-img img{
      width: 25rem;
 }
