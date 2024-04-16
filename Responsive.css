@@ -61,9 +61,9 @@
         display: flex;
         gap: 0;
     }
-    .hero-img{
+    /* .hero-img{
         width: 100%;
-    }
+    } */
     .hero-img img {
         width: 15rem;
     }
