@@ -75,7 +75,19 @@
     .choose-class-imgs {
         flex-direction: column;
     }
+    .choose-class-img {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      
+    }
 
+    .choose-class-text{
+       text-align: center;
+       padding-left: 1rem;
+       padding-right: 1rem;
+    }
     .our-stats-cart {
         padding: 2rem 1rem;
     }
@@ -171,7 +183,7 @@
         align-items: center;
     }
 
-    .footer-tital {
+    .footer-title {
         width: 90%;
         align-items: center;
         margin-left: 0px;
